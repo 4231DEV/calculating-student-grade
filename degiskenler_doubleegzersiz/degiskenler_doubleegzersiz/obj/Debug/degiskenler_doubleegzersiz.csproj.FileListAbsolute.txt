@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\bin\Debug\degiskenler_doubleegzersiz.exe.config
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\bin\Debug\degiskenler_doubleegzersiz.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\bin\Debug\degiskenler_doubleegzersiz.pdb
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.Form1.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.Properties.Resources.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\degiskenler_doubleegzersiz\degiskenler_doubleegzersiz\obj\Debug\degiskenler_doubleegzersiz.pdb
